@@ -51,7 +51,7 @@ By default the latest version of the plugin is used. However you may specify an 
 $ jxc install 0.0.8
 ```
 
-The list of other possible versions are available under http://az836273.vo.msecnd.net.
+The list of other possible versions are available under http://jxcore.azureedge.net.
 
 You can also install the plugin from a local package by providing its path explicitly:
 
@@ -101,7 +101,7 @@ By default the latest version of the plugin is used. However you may specify an 
 $ jxc install 0.0.8
 ```
 
-For list of other possible versions see http://az836273.vo.msecnd.net.
+For list of other possible versions see http://jxcore.azureedge.net.
 
 ### Update
 
